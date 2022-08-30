@@ -8,6 +8,7 @@ import Footer from '../../components/Footer/Footer';
 import styles from './Home.module.sass';
 import carouselConstants from '../../carouselConstants';
 import Spinner from '../../components/Spinner/Spinner';
+import StartContest from '../../components/HomeComponents/StartContest/StartContest';
 
 const Home = (props) => {
   const [index, setIndex] = useState(0);
@@ -213,6 +214,7 @@ const Home = (props) => {
                 carouselType={carouselConstants.FEEDBACK_SLIDER}
               />
             </div>
+            <StartContest />
           </div>
           <Footer />
         </>

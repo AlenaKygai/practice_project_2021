@@ -1,0 +1,20 @@
+[
+  {
+    "icon":"fas fa-cogs",
+    "title":"managed contests",
+    "description":"Having worked on more than 25,000 naming projects, our team has mastered the essential best practices for getting the most out of our platform. When you choose the Managed Contest offering.",
+    "link":"/managed-contests"
+  },
+  {
+    "icon":"fa fa-users",
+    "title":"audience testing",
+    "description":"We write your brief. We manage the collaboration process. Working with your branding consultant makes the process easier and less time consuming for you.",
+    "link":"/audience-testing"
+  },
+  {
+    "icon":"fa fa-light fa-trademark",
+    "title":"trademart support",
+    "description":"Our Managed contests combine the power of crowdsourcing with the rich experience of our branding consultants. Get a complete agency-level experience at a fraction of Agency costs.",
+    "link":"/trademart-support"
+  }
+]
